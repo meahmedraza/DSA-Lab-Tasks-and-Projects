@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600836806 source:c:\users\user\desktop\school_management_system\main.cpp
+	<bits/stdc++.h>
+	<math.h>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+
